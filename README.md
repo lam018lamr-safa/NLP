@@ -1,87 +1,128 @@
-<!-- 🔥 بانر احترافي متحرك -->
+<!-- 🌊 البانر العلوي -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Safaa%20NLP%20World&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=صفاء%20ذكاء%20اصطناعي&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">👋 أهلاً، أنا صفاء</h1>
 
 <p align="center">
 🎓 طالبة ذكاء اصطناعي <br>
-🧠 متخصصة في معالجة اللغة الطبيعية (NLP) <br>
-🚀 أسعى لبناء حلول ذكية تفهم اللغة البشرية
+🧠 مهتمة بالذكاء الاصطناعي ومعالجة اللغة الطبيعية <br>
+🚀 أسعى لبناء حلول ذكية تفهم البيانات واللغة البشرية
 </p>
 
 ---
 
-## 🚀  من انا ##
-أنا مهتمة بمجال **الذكاء الاصطناعي**، وخصوصًا في:
+## 🌟 من أنا؟
+
+أنا صفاء، طالبة في مجال **الذكاء الاصطناعي**، لدي شغف بالتقنيات الحديثة وأسعى لتطوير مهاراتي في بناء الأنظمة الذكية.
+
+اهتماماتي:
+
+- 🤖 الذكاء الاصطناعي (AI)
 - 🧠 معالجة اللغة الطبيعية (NLP)
-- 🤖 تعلم الآلة (Machine Learning)
 - 📊 تحليل البيانات
----
-
-## هذا المشروع##
-هذا المستودع يمثل رحلتي في تعلم **NLP** ويحتوي على:
-
-✨ واجبات جامعية  
-✨ مشاريع تطبيقية  
-✨ تجارب عملية على النصوص  
+- 🛠️ تعلم الآلة (Machine Learning)
 
 ---
 
-## ⚙️ التقنيات المستخدمة
+## 🚀 رحلتي في الذكاء الاصطناعي
+
+أتعلم وأطبق مفاهيم الذكاء الاصطناعي من خلال:
+
+✨ تطوير مشاريع عملية  
+✨ تحليل ومعالجة البيانات  
+✨ بناء نماذج تعلم الآلة  
+✨ تجربة تقنيات معالجة النصوص  
+
+---
+
+## 🛠️ الأدوات والتقنيات
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
 </p>
 
+### المكتبات التي أستخدمها:
+
+🐍 Python  
+📚 NumPy - Pandas  
+📊 Matplotlib  
+🤖 Scikit-learn  
+🧠 NLTK - spaCy  
+🔥 TensorFlow  
+
 ---
 
-## 📂 محتوى المستودع
+## 📂 محتوى أعمالي
+
 | القسم | الوصف |
-|------|------|
-| 📄 Notes | ملاحظات وملفات |
-| 💻 Code | أكواد المشاريع |
-| 🧪 Experiments | تجارب وتحليل |
+|---|---|
+| 📘 الملاحظات | ملخصات ودروس في الذكاء الاصطناعي |
+| 💻 الأكواد | تطبيقات وتجارب برمجية |
+| 🧪 التجارب | تجارب تعلم الآلة ومعالجة النصوص |
+| 🚀 المشاريع | مشاريع تطبيقية في AI |
 
 ---
 
-## 🧠 مشاريع مميزة
-- 🔍 تحليل المشاعر (Sentiment Analysis)  
-- 🧹 تنظيف النصوص (Text Cleaning)  
-- 🧠 تصنيف النصوص (Text Classification)  
-- 🏷️ استخراج الكيانات (NER)  
+## 🧠 مشاريع قمت بها
+
+🔍 **تحليل المشاعر**
+- تصنيف النصوص إلى مشاعر مختلفة.
+
+🧹 **معالجة النصوص**
+- تنظيف وتجهيز البيانات النصية.
+
+📚 **تصنيف النصوص**
+- استخدام خوارزميات تعلم الآلة للتصنيف.
+
+🤖 **مشاريع الذكاء الاصطناعي**
+- تطبيق مفاهيم AI لحل مشاكل واقعية.
 
 ---
 
-## 📊 إحصائياتي على GitHub
+## 🎯 أهدافي
+
+⭐ تطوير مهاراتي في الذكاء الاصطناعي  
+⭐ بناء مشاريع قوية ومفيدة  
+⭐ التعمق في مجال معالجة اللغة الطبيعية  
+⭐ التعلم المستمر ومواكبة تطورات التقنية  
+
+---
+
+## 📊 إحصائياتي في GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lam018lamr-safa&show_icons=true&theme=radical"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lam018lamr-safa&theme=radical"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=lam018lamr-safa&show_icons=true&theme=radical"/>
+
 </p>
 
 ---
 
 ## 🌐 تواصل معي
+
 <p align="center">
-  <a href="https://github.com/lam018lamr-safa">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://github.com/lam018lamr-safa">
+<img src="https://img.shields.io/badge/GitHub-صفاء-black?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
 ---
 
-## 🧠 اقتباس يلهمني
-> "البيانات هي الوقود... والذكاء الاصطناعي هو المحرك"
+## 💡 اقتباسي المفضل
+
+> "الذكاء الاصطناعي ليس بديلاً للعقل البشري، بل أداة لتوسيع قدراته."
 
 ---
 
 <p align="center">
-💙 شكراً لزيارتك 💙  
-⭐ لا تنسَ دعم المشروع
+💙 شكراً لزيارتك 💙
+<br>
+⭐ لا تنسَ دعم مشاريعي
 </p>
 
-<!-- 🔥 فوتر -->
+<!-- 🌊 الفوتر -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
